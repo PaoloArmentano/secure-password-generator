@@ -10,6 +10,7 @@ body {
     background-color: #1F2937;
     font-family: 'inter';
     padding: 100px;
+    max-width: 60%;
 }
 
 h1 {
